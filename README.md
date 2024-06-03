@@ -3,7 +3,7 @@
 
 | Name | Topic | Task description | Tools |
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
-| [01. User Segmentation](https://github.com/rombykoff/yandex-practicum-projects/tree/main/01.%20Исследование%20данных%20сервиса%20“Яндекс.Музыка”) | Datamarts | Create RFM segmentation in local DB | *`Docker`* *`PostgreSQL`* |
+| [01. User Segmentation](https://github.com/rombykoff/yandex-practicum-projects/tree/main/01.%20Исследование%20данных%20сервиса%20“Яндекс.Музыка”) | Datamarts | Create RFM segmentation in local DB | *`SQL`* *`PostgreSQL`* |
 | [02. Online store](https://github.com/rombykoff/yandex-practicum-projects/tree/main/02.%20Исследование%20надежности%20заемщиков) | DB structure optimization | Re-build DB schema | *`Docker`* *`PostgreSQL`* |
 | [03. Online store](https://github.com/rombykoff/yandex-practicum-projects/tree/main/03.%20Исследование%20объявлений%20о%20продаже%20квартир) | ETL pipepline creation | Change existing pipeline considering modifications in DB | *`Python`* *`Docker`* *`PostgreSQL`* *`Airflow`* |
 | [04. Settlements with couriers](https://github.com/rombykoff/yandex-practicum-projects/tree/main/04.%20Определение%20выгодного%20тарифа%20для%20телеком%20компании) | ETL pipepline creation | Load data from external API to the local DB with Apache Airflow | *`Python`* *`Docker`* *`PostgreSQL`* *`MongoDB`* *`Airflow`* |
