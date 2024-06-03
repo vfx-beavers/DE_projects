@@ -3,7 +3,7 @@
 
 | Name | Topic | Task description | Tools |
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
-| [01. Simple data mart](https://github.com) | Data Quality; Data Marts; SQL | Create RFM segmentation and check data quality | *`PostgreSQL`* |
+| [01. RFM data mart](https://github.com) | Data Quality; Data Marts; SQL | Create Recency, Frequency, Monetary Value segmentation mart and check data quality | *`PostgreSQL`* |
 | [02. Data model re-build](https://github.com) | Data Layers; Dimensions; Facts; Views | DWH: Re-build DB schema | *`Python`* *`PostgreSQL`* |
 | [03. ETL update](https://github.com) | Airflow Connections; DAGs; ETL; Batch Processing | Change existing pipeline considering modifications in DB | *`Python`* *`S3`* *`PostgreSQL`* *`Rest-API`* *`Airflow`* |
 | [04. Multiple sources](https://github.com) | Data Layers; Data Marts; SCD; Incremental Loading | E-shop DWH from multiple sources with Apache Airflow | *`Python`* *`Docker`* *`PostgreSQL`* *`MongoDB`* *`Airflow`* |
