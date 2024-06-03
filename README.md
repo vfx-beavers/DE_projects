@@ -2,7 +2,7 @@
 
 
 | Name | Task description | Tools |
-| :---------------------- | :---------------------- | :---------------------- |
+| :---------------------- | :---------------------- | :---------------------- | :---------------------- |
 | [01. User Segmentation. Datamarts](https://github.com/rombykoff/yandex-practicum-projects/tree/main/01.%20Исследование%20данных%20сервиса%20“Яндекс.Музыка”) | Create RFM segmentation in local DB | *`Docker`* *`PostgreSQL`* |
 | [02. Online store. DB structure optimization](https://github.com/rombykoff/yandex-practicum-projects/tree/main/02.%20Исследование%20надежности%20заемщиков) | Re-build DB schema | *`Docker`* *`PostgreSQL`* |
 | [03. Online store. ETL pipepline creation](https://github.com/rombykoff/yandex-practicum-projects/tree/main/03.%20Исследование%20объявлений%20о%20продаже%20квартир) | Change existing pipeline considering modifications in DB | *`Python`* *`Docker`* *`PostgreSQL`* *`Airflow`* |
